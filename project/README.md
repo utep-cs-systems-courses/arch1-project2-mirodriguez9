@@ -1,6 +1,6 @@
-#Project 2: Blinky Buzzy Toy
+# Project 2: Blinky Buzzy Toy
 
-####Green LED is on by default
+#### Green LED is on by default
 
 1. Button 1 makes a noise
 2. Button 2 turns off noise from buttons and turns on Red LED
